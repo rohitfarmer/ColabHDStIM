@@ -13,7 +13,7 @@ This notebook is an attempt to make it easier to use HDStIM. However, since it r
 
 *Note: Under default settings, the notebook should be able to run an example dataset.*
 
-## Use links
+## Helpful links
 1. [Google Colab Frequently Asked Questions](https://research.google.com/colaboratory/faq.html)
 2. [Welcome to Colab!](https://colab.research.google.com/)
 3. [Practical Introduction to Google Colab for Data Science (YouTube video)](https://www.youtube.com/watch?v=oCngVVBSsmA)
