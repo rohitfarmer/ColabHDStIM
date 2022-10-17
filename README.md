@@ -2,6 +2,13 @@
 
 ## Abstract
 HDStIM is a method for identifying responses to experimental stimulation in mass or flow cytometry that uses high dimensional analysis of measured parameters and can be performed with an end-to-end unsupervised approach. In the context of in vitro stimulation assays where high-parameter cytometry was used to monitor intracellular response markers, using cell populations annotated either through automated clustering or manual gating for a combined set of stimulated and unstimulated samples, 'HDStIM' labels cells as responding or non-responding. The package also provides auxiliary functions to rank intracellular markers based on their contribution to identifying responses and generating diagnostic plots. Documentation website: https://niaid.github.io/HDStIM/ Source code: https://github.com/niaid/HDStIM/ CRAN page: https://cran.r-project.org/package=HDStIM
+
+<br>
+
+![](ColabHDStIM.png)
+*Figure 1. Schematic outline for the use of multiple response markers by HDStIM to identify cells with a responding phenotype from unstimulated and stimulated experimental samples for a given stimulation - cell population combination.*
+ 
+ <br>
  
 ## Colab notebook
 This notebook is an attempt to make it easier to use HDStIM. However, since it runs on [Google Colab](https://research.google.com/colaboratory/faq.html), it has its limitations. For example, uploading a large dataset is very slow and may not be straightforward. Also, the marker ranking function that utilizes multiple cores may be orders of magnitude slower than on a local machine with more than two cores. See the more information section at the bottom of the notebook on how to run this notebook locally (recommended).
