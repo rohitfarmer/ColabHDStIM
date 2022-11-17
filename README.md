@@ -25,3 +25,9 @@ This notebook is an attempt to make it easier to use HDStIM. However, since it r
    1. [Google Colab frequently asked questions](https://research.google.com/colaboratory/faq.html)
    2. [Welcome to Colab!](https://colab.research.google.com/)
    3. [Practical introduction to Google Colab for data science (YouTube video)](https://www.youtube.com/watch?v=oCngVVBSsmA)
+
+## Citation
+To cite ColabHDStIM:
+
+* Rohit Farmer. (2022). ColabHDStIM: A Google Colab interface to HDStIM (High Dimensional Stimulation Immune Mapping) (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.7231731
+* Rohit Farmer, Richard Apps, Juan Quiel, Brian Sellers, Foo Cheung, Jinguo Chen, Amrita Mukherjee, Peter McGuire, John S Tsang. (2022). Multiparameter stimulation mapping of signaling states in single pediatric immune cells reveals heightened tonic activation during puberty. bioRxiv 2022.11.14.516371. https://doi.org/10.1101/2022.11.14.516371
